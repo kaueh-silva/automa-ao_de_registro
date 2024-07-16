@@ -32,7 +32,7 @@ pyautogui.click(x=956, y=352)
 
 pyautogui.hotkey("ctrl", "a")
 
-pyautogui.write("kauesilva107@gmail.com")
+pyautogui.write("ficticio@email.com")
 
 time.sleep(0.5)
 
